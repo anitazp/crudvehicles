@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,200&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;    
+    
+}
+body{
+    background-image: url(https://images.pexels.com/photos/5976529/pexels-photo-5976529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100vh;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.banner {
+    color: rgb(245, 244, 200);
+    text-align: center; 
+}
+.bg-grey{
+    background-color: rgba(114, 113, 113, 0.363);
+    color: honeydew;
+}
+th  {
+    text-align: center; 
+ 
+}
+td {
+    text-align: center; 
+}
